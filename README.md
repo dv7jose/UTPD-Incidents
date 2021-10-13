@@ -1,5 +1,6 @@
 # UTPD Incident Notification Scraper
 
+Final Map View: https://incidentsutpd.netlify.app/
 Data Reporter: José Martínez, martinez307jose@gmail.com
 
 ### Data Overview
